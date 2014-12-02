@@ -1,0 +1,1 @@
+$(".sidebar").hide().slideDown(1200 swing)
